@@ -1,2 +1,2 @@
 # My-lessons
-simple projects
+simple_projects 
