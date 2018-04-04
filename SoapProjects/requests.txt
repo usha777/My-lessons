@@ -1,0 +1,12 @@
+Open the App Students
+Press the button F12
+Press the button F5
+Requests: GET to http://37.59.228.229:3000; GET to http://37.59.228.229:3000/api/users
+Press the red plus button and green create button
+Requests: POST to http://37.59.228.229:3000/api/users
+Press green save button
+Requests: PUT to http://37.59.228.229:3000/api/users/102
+Press the delete round button close to the user name
+Requests: DELETE to http://37.59.228.229:3000/api/users/102
+Press the red plus button and choose the role "administrator" from the drop-down list
+Requests: GET http://37.59.228.229:3000/api/users/refreshAdmins
