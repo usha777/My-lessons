@@ -1,0 +1,32 @@
+<movies>
+<movie>
+<name>Avatar</name>
+<director>James Cameron</director>
+<release>2009</release>
+<genre>fantasy</genre>
+</movie>
+<movie>
+<name>The Green Mile</name>
+<director>Frank Darabont</director>
+<release>1999</release>
+<genre>drama</genre>
+</movie>
+<movie>
+<name>1+1</name>
+<director>Olivier Nakash, Erik Toledano</director>
+<release>2011</release>
+<genre>Comedy</genre>
+</movie>
+<movie>
+<name>Inception</name>
+<director>Christopher Nolan</director>
+<release>2010</release>
+<genre>Fantasy</genre>
+</movie>
+<movie>
+<name>Hachi: A Dog`s Tale</name>
+<director>Lasse Hallström</director>
+<release>2009</release>
+<genre>drama</genre>
+</movie>
+</movies>
